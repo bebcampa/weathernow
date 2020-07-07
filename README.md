@@ -1,5 +1,7 @@
 # weathernow
 
+<img src="satelite-varinat-png" align="right" />
+
 ## Project setup
 ```
 npm install
