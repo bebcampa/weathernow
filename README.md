@@ -10,7 +10,7 @@
 <div align="center">
   <h3>
     <a href="https://bebcampa.github.io/weathernow/">
-      DEMO Website
+      APP DEMO
     </a>
     <span> | </span>
     <a href="https://github.com/bebcampa/weathernow">
@@ -24,13 +24,6 @@
   <a href="https://www.linkedin.com/in/2012fr/">Tiberiu</a> 
   </a>
 </div>
-
-
-# weathernow
-
-<img src="satellite-variant.png" align="right" />
-
-Backend providede by minimal Laravel api, https://apilaravel.herokuapp.com/ 
 
 
 ## Project setup
