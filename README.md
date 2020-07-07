@@ -1,9 +1,9 @@
 # weathernow
 
 <img src="satellite-variant.png" align="right" />
-```
+
 Backend providede by minimal Laravel api, https://apilaravel.herokuapp.com/ 
-```
+
 
 ## Project setup
 ```
