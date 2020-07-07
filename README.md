@@ -1,6 +1,6 @@
 # weathernow
 
-<img src="satellite-varinat-png" align="right" />
+<img src="satellite-variant-png" align="right" />
 
 ## Project setup
 ```
