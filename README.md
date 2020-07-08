@@ -17,7 +17,6 @@
     <a href="https://github.com/bebcampa/weathernow">
       REPO 
     </a>
-    <span> | </span>
 </div>
 
 <div align="center">
