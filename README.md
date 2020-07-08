@@ -1,7 +1,7 @@
 <h1 align="center">Real time weather</h1>
 
 <div align="center">
-  :steam_locomotive::train::train::train::train::train:
+  :sunny:
 </div>
 <div align="center">
   <strong>Minimal backend provided by Laravel API hosted in https://apilaravel.herokuapp.com/ </strong>
