@@ -24,7 +24,7 @@
   <a href="https://www.linkedin.com/in/2012fr/">Tiberiu</a> 
   </a>
 </div>
-![](info.JPG)
+<img src="./info.JPG">
 
 ## Project setup
 ```
