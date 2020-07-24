@@ -13,16 +13,15 @@
     <a href="https://bebcampa.github.io/weathernow/">
       APP DEMO
     </a>
-    <span> | </span>
-    <a href="https://github.com/bebcampa/weathernow">
-      REPO 
-    </a>
 </div>
 
 <div align="center">
   <sub>Code made with ❤︎ by
   <a href="https://www.linkedin.com/in/2012fr/">Tiberiu</a> 
   </a>
+</div>
+<div align="center">
+  <sub>Architecture
 </div>
 <img src="./info.JPG">
 
