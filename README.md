@@ -14,12 +14,6 @@
       APP DEMO
     </a>
 </div>
-
-<div align="center">
-  <sub>Code made with ❤︎ by
-  <a href="https://www.linkedin.com/in/2012fr/">Tiberiu</a> 
-  </a>
-</div>
 <div align="center">
   <h1>
   Architecture
