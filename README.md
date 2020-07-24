@@ -6,7 +6,6 @@
 <div align="center">
   <strong>Minimal backend provided by Laravel API hosted in https://apilaravel.herokuapp.com/ </strong>
   <br /> <strong>Based on openweathermap API<Strong>
-  ![](info.JPG)
 </div>
 <br />
 <div align="center">
@@ -19,7 +18,7 @@
       REPO 
     </a>
 </div>
-
+![](info.JPG)
 <div align="center">
   <sub>Code made with ❤︎ by
   <a href="https://www.linkedin.com/in/2012fr/">Tiberiu</a> 
