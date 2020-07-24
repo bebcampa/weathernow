@@ -84,10 +84,20 @@ import axios from 'axios'
       this.getTemperatura()
 
     },
+    created () {
+      this.$getLocation({
+          enableHighAccuracy: true,
+          timeout: Infinity,
+        })
+        .then(coordinates => {
+          this.getTemperaturaGeo(coordinates.lat, coordinates.lng);
+        })
+        .catch( function () {
+          alert("Get default location! Madrid temperature.")
+        });
+    },
     methods: {
-     
         getTemperatura() {
-            
             var self=this;
             axios.get('https://apilaravel.herokuapp.com/api/temp', {
              })
@@ -95,6 +105,28 @@ import axios from 'axios'
                     // handle success
                 self.fillData(response);
                 self.checking = "true"
+            })
+            .catch(function (error) {
+                // handle error
+            console.log(error);
+        
+             })
+            .then(function () {  
+
+                });
+                
+        },
+        getTemperaturaGeo(lat, lon) {
+            var self=this;
+            axios.get('https://apilaravel.herokuapp.com/api/temp?lat='+lat+'&lon='+lon, {
+              
+             })
+                .then(function (response) {
+                    // handle success
+                self.fillData(response);
+                self.checking = "true"
+                console.log(lat)
+                console.log(lon)
             })
             .catch(function (error) {
                 // handle error
