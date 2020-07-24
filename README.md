@@ -21,7 +21,9 @@
   </a>
 </div>
 <div align="center">
-  <sub>Architecture
+  <h1>
+  Architecture
+  </h1>
 </div>
 <img src="./info.JPG">
 
