@@ -5,7 +5,8 @@
 </div>
 <div align="center">
   <strong>Minimal backend provided by Laravel API hosted in https://apilaravel.herokuapp.com/ </strong>
-  <br /> <strong>Based on openweathermap API<Strong>
+  <br /> 
+ <a href="https://openweathermap.org"><strong>Based on openweathermap API<Strong> </a>
 </div>
 <br />
 <div align="center">
