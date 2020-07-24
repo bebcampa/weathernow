@@ -18,13 +18,13 @@
       REPO 
     </a>
 </div>
-![](info.JPG)
+
 <div align="center">
   <sub>Code made with ❤︎ by
   <a href="https://www.linkedin.com/in/2012fr/">Tiberiu</a> 
   </a>
 </div>
-
+![](info.JPG)
 
 ## Project setup
 ```
